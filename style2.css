@@ -12,11 +12,15 @@ body {
 	align-items: center;
 	justify-content: center;
 }
+#container:hover {
+	mix-blend-mode:color-burn;
+}
 
 .p {
 	width: 12px;
 	height: 12px;
 }
+
 .row {
 	display: flex;
 	flex-direction: row;
@@ -28,30 +32,32 @@ body {
 	background-color: yellow;
 }
 
+
 .violet {
-	background-color: indigo;
+	background-color: rgb(56, 40, 146);
 }
+
 
 .black {
 	background-color: black;
 }
 
 .brown {
-	background-color: #8a3203;
+	background-color: #68391f;
 }
 .red {
-	background-color: red;
+	background-color: rgb(245, 55, 55);
 }
 
 .reddish {
-	background-color: #8a1703;
+	background-color: #7c492e;
 }
 
 .cream {
 	background-color: #ffe8e0;
 }
 .shadow {
-	background-color: burlywood;
+	background-color: #f8cfc1;;
 }
 
 .white {
@@ -63,12 +69,12 @@ body {
 }
 
 .pink {
-	background-color: #fca7e3;
+	background-color: #fca7ca;
 }
 .blue {
-	background-color: blue;
+	background-color: rgb(99, 99, 214);
 }
 
 .fucsia {
-	background-color: hotpink;
+	background-color: rgb(255, 135, 105);
 }
