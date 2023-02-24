@@ -8,6 +8,7 @@ body {
     font-size: 10px;
   }
   
+  
   body * {
     margin: 0;
     padding: 0;
@@ -20,8 +21,8 @@ body {
     background: #3c80b1;
     grid-template-columns: repeat(4, 25%);
     grid-template-rows: 6% 18% repeat(4, 19%);
-    border: 10px solid white;
   }
+  
   
   .invgrid {
     height: 595px;
