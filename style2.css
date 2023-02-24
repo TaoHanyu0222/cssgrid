@@ -1,0 +1,74 @@
+body {
+	background-color: black;
+	height: 100vh;
+	padding: 0;
+	margin: 0;
+}
+
+#container {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+	align-items: center;
+	justify-content: center;
+}
+
+.p {
+	width: 12px;
+	height: 12px;
+}
+.row {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	overflow-x: auto;
+}
+
+.yellow {
+	background-color: yellow;
+}
+
+.violet {
+	background-color: indigo;
+}
+
+.black {
+	background-color: black;
+}
+
+.brown {
+	background-color: #8a3203;
+}
+.red {
+	background-color: red;
+}
+
+.reddish {
+	background-color: #8a1703;
+}
+
+.cream {
+	background-color: #ffe8e0;
+}
+.shadow {
+	background-color: burlywood;
+}
+
+.white {
+	background-color: white;
+}
+
+.gray {
+	background-color: gray;
+}
+
+.pink {
+	background-color: #fca7e3;
+}
+.blue {
+	background-color: blue;
+}
+
+.fucsia {
+	background-color: hotpink;
+}
