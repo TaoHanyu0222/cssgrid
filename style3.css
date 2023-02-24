@@ -37,7 +37,7 @@ body {
     height: 595px;
     width: 420px;
     background: transparent;
-    border: 100px solid black;
+    border: 100px solid rgb(255, 255, 255);
     margin-left: -310px;
     margin-top: -135px;
     z-index: 9999;
